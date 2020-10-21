@@ -1,5 +1,5 @@
-# Bakery Web App
-I’ve developed a Bakery web application using MVC architecture, for finding recipes using AJAX and a foreign API (https://forkify-api.herokuapp.com) reciving them and saving them on the local storage. Also used here a JavaScript ecosystem, some 3rd-party packages of node.js, npm, libraries, and dev tools.
+# Bakery Recipes
+I’ve developed a Bakery Recipes dynamic website ,using MVC architecture, for finding recipes using AJAX and a foreign API (https://forkify-api.herokuapp.com) reciving them and saving them on the local storage. Also used here a JavaScript ecosystem, some 3rd-party packages of node.js, npm, libraries, and dev tools.
 
 ## Packages installed
 - babel-core,which contains the core functionality of the compiler.
