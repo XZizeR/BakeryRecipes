@@ -8,7 +8,7 @@ I’ve developed a Bakery Recipes dynamic website ,using MVC architecture, for f
 - babel-polyfill, this will implement like a promise in ES5.
 - webpack-dev-server, provides us with a developement server, which will automatically bundle all our JavaScript files, and then reload the app in a browser when ever we change a file.
 - axios, a promise based HTTP client for the browser and node.js, automatic transforms for JSON data.
-- fractional, library to deal with fractions (4.5 => 4 1/2) and convert them. - uniqid, API to generate to each item on the ingredient list a unique identifier.
+- fractional, library to deal with fractions (4.5 ➡️ 4 1/2) and convert them. - uniqid, API to generate to each item on the ingredient list a unique identifier.
 
 ## How To RUN it
 - write ``` $ npm run start ``` in order to run the project. 
